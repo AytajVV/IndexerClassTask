@@ -1,0 +1,14 @@
+C:\Users\AytajVV\Desktop\IndexerClassTask\IndexerClassTask\bin\Debug\netcoreapp3.1\IndexerClassTask.exe
+C:\Users\AytajVV\Desktop\IndexerClassTask\IndexerClassTask\bin\Debug\netcoreapp3.1\IndexerClassTask.deps.json
+C:\Users\AytajVV\Desktop\IndexerClassTask\IndexerClassTask\bin\Debug\netcoreapp3.1\IndexerClassTask.runtimeconfig.json
+C:\Users\AytajVV\Desktop\IndexerClassTask\IndexerClassTask\bin\Debug\netcoreapp3.1\IndexerClassTask.runtimeconfig.dev.json
+C:\Users\AytajVV\Desktop\IndexerClassTask\IndexerClassTask\bin\Debug\netcoreapp3.1\IndexerClassTask.dll
+C:\Users\AytajVV\Desktop\IndexerClassTask\IndexerClassTask\bin\Debug\netcoreapp3.1\IndexerClassTask.pdb
+C:\Users\AytajVV\Desktop\IndexerClassTask\IndexerClassTask\obj\Debug\netcoreapp3.1\IndexerClassTask.csproj.AssemblyReference.cache
+C:\Users\AytajVV\Desktop\IndexerClassTask\IndexerClassTask\obj\Debug\netcoreapp3.1\IndexerClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AytajVV\Desktop\IndexerClassTask\IndexerClassTask\obj\Debug\netcoreapp3.1\IndexerClassTask.AssemblyInfoInputs.cache
+C:\Users\AytajVV\Desktop\IndexerClassTask\IndexerClassTask\obj\Debug\netcoreapp3.1\IndexerClassTask.AssemblyInfo.cs
+C:\Users\AytajVV\Desktop\IndexerClassTask\IndexerClassTask\obj\Debug\netcoreapp3.1\IndexerClassTask.csproj.CoreCompileInputs.cache
+C:\Users\AytajVV\Desktop\IndexerClassTask\IndexerClassTask\obj\Debug\netcoreapp3.1\IndexerClassTask.dll
+C:\Users\AytajVV\Desktop\IndexerClassTask\IndexerClassTask\obj\Debug\netcoreapp3.1\IndexerClassTask.pdb
+C:\Users\AytajVV\Desktop\IndexerClassTask\IndexerClassTask\obj\Debug\netcoreapp3.1\IndexerClassTask.genruntimeconfig.cache
